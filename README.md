@@ -58,3 +58,7 @@ As stated in our paper as well, we see our model as a powerful controllable musi
 
 The paper is written in a very rigorous manner with clear definition and theorem proving, which is very rare in music generation studies. Nevertheless, we believe this is a proper way to present our work in the  sense that our model adds music control from the token-wise/lexeme level of music, and an isomorphism is made between a BERT problem and a way of generalized positional encoding, and between a BERT problem and a constraint solver.
 
+
+
+Problems and discussion on this paper is welcome. Please contact me at [ziyu.wang@nyu.edu](ziyu.wang@.nyu.edu).
+
